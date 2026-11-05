@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Aung%20Kaung%20Myat&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Junior%20Full-Stack%20Developer&descSize=22&descAlignY=60" alt="header" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&height=40&lines=Building+scalable+web+applications;Frontend+%E2%86%92+Backend+%E2%86%92+Deploy;Always+learning+something+new" alt="typing" />
+<img src="./assets/header.svg" alt="Aung Kaung Myat - Junior Full-Stack Developer" width="100%" />
 
 </div>
 
@@ -46,14 +44,12 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=agkgmyatdev&theme=tokyonight&hide_border=true" alt="streak" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agkgmyatdev&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-
 
 </div>
 
 <br>
 <div align="center">
 
-⭐️ Thanks for visiting my profile! ⭐️
+"Think twice, code once"
 
 </div>

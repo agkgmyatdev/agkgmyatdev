@@ -1,0 +1,291 @@
+<svg width="1000" height="300" viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg" role="img"
+    aria-label="Aung Kaung Myat - Junior Full-Stack Developer" xmlns:c2pa="http://c2pa.org/manifest">
+    <metadata>
+        <c2pa:manifest>
+            AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo5NDI3YzExYy1mOWQ4LTQxNzgtYjRmMi1iNzUwODg1YzkyOTgAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaKzb5pv1Bl0kMAE7UBqPe68AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDowYWFmYTg0NC0xYTM3LTQyZTAtOGFlNS1jYTg0ZjgyMTVlNzdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNok1IE09c2DqF8W8TUyQvVEAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggTfS2iQBjkxXthf80ldqTKoM8PgvjhblyXvev9U81Q/ikZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaIjxbmSlhbAYCoEEjpk/BnYAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDxAjr8i0OBDbzBdAroP39Q9FANx3T9FfgjJoPAamYm2WRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjeZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjk0MjdjMTFjLWY5ZDgtNDE3OC1iNGYyLWI3NTA4ODVjOTI5OC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmVlZTY5MWJmLTk5MTktNGY3Ny04ZGJkLTIwMzQwYzI1YmRkMXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBN9LaJAGOTFe2F/zSV2pMqgzw+C+OFuXJe96/1TzVD+KJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggiSVh+lCIiuw4BCaXDJsAKXzM5Zt3TMHAmFTq4aK6VACiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggg+61+iwVXV691S3Vy8gtutUXyZlVnEUSvovgKv6lK8h0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQNzXCqeZsw30xJ3DoAp7C8/SUj8FlErMzJqymNWpc+IWGrPVwywLLeHQpuRvO6NHlfCTaqBjLKHPVSeIi8EN7oA=
+        </c2pa:manifest>
+    </metadata>
+    <defs>
+        <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#0b0b1f" />
+            <stop offset="100%" stop-color="#1b1140" />
+        </linearGradient>
+        <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#ffffff" stop-opacity="0.20" />
+            <stop offset="100%" stop-color="#ffffff" stop-opacity="0.04" />
+        </linearGradient>
+        <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55" />
+            <stop offset="50%" stop-color="#ffffff" stop-opacity="0.06" />
+            <stop offset="100%" stop-color="#ffffff" stop-opacity="0.3" />
+        </linearGradient>
+        <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+            <stop offset="0%" stop-color="#00f5ff" />
+            <stop offset="50%" stop-color="#e8fbff" />
+            <stop offset="100%" stop-color="#ff5ce1" />
+        </linearGradient>
+        <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+            <stop offset="0%" stop-color="#fff" stop-opacity="0" />
+            <stop offset="50%" stop-color="#fff" stop-opacity="0.18" />
+            <stop offset="100%" stop-color="#fff" stop-opacity="0" />
+        </linearGradient>
+        <radialGradient id="b1" cx="50%" cy="50%" r="50%">
+            <stop offset="0%" stop-color="#6c63ff" stop-opacity="0.8" />
+            <stop offset="100%" stop-color="#6c63ff" stop-opacity="0" />
+        </radialGradient>
+        <radialGradient id="b2" cx="50%" cy="50%" r="50%">
+            <stop offset="0%" stop-color="#00d4ff" stop-opacity="0.65" />
+            <stop offset="100%" stop-color="#00d4ff" stop-opacity="0" />
+        </radialGradient>
+        <radialGradient id="b3" cx="50%" cy="50%" r="50%">
+            <stop offset="0%" stop-color="#ff5ce1" stop-opacity="0.6" />
+            <stop offset="100%" stop-color="#ff5ce1" stop-opacity="0" />
+        </radialGradient>
+        <clipPath id="frame">
+            <rect width="1000" height="300" rx="24" />
+        </clipPath>
+        <clipPath id="panel">
+            <rect x="90" y="45" width="820" height="210" rx="30" />
+        </clipPath>
+        <clipPath id="typeName">
+            <rect class="reveal rName" x="275" y="90" width="450" height="80" />
+        </clipPath>
+        <clipPath id="typeRole">
+            <rect class="reveal rRole" x="260" y="170" width="480" height="40" />
+        </clipPath>
+    </defs>
+
+    <style>
+        /* Typing timeline: name 0.5s-2.5s, role 3.0s-5.4s, then cursor blinks */
+        .reveal {
+            transform-box: fill-box;
+            transform-origin: left center
+        }
+
+        .rName {
+            animation: reveal 2s .5s steps(15) both
+        }
+
+        .rRole {
+            animation: reveal 2.4s 3s steps(27) both
+        }
+
+        .c1 {
+            animation: hide .01s 2.6s forwards
+        }
+
+        .c1 rect {
+            animation: moveName 2s .5s steps(15) both
+        }
+
+        .c2 {
+            opacity: 0;
+            animation: show .01s 2.9s forwards
+        }
+
+        .c2 g {
+            animation: blink 1s 5.4s steps(1) infinite
+        }
+
+        .c2 rect {
+            animation: moveRole 2.4s 3s steps(27) both
+        }
+
+        .orb1 {
+            animation: drift1 14s ease-in-out infinite alternate
+        }
+
+        .orb2 {
+            animation: drift2 17s ease-in-out infinite alternate
+        }
+
+        .orb3 {
+            animation: drift3 12s ease-in-out infinite alternate
+        }
+
+        .shine {
+            animation: sweep 6s 6s ease-in-out infinite
+        }
+
+        .tw1 {
+            animation: twinkle 3.2s ease-in-out infinite
+        }
+
+        .tw2 {
+            animation: twinkle 4.1s .9s ease-in-out infinite
+        }
+
+        .tw3 {
+            animation: twinkle 3.7s 1.7s ease-in-out infinite
+        }
+
+        @keyframes reveal {
+            from {
+                transform: scaleX(0)
+            }
+
+            to {
+                transform: scaleX(1)
+            }
+        }
+
+        @keyframes moveName {
+            from {
+                transform: translateX(0)
+            }
+
+            to {
+                transform: translateX(450px)
+            }
+        }
+
+        @keyframes moveRole {
+            from {
+                transform: translateX(0)
+            }
+
+            to {
+                transform: translateX(480px)
+            }
+        }
+
+        @keyframes hide {
+            to {
+                opacity: 0
+            }
+        }
+
+        @keyframes show {
+            to {
+                opacity: 1
+            }
+        }
+
+        @keyframes blink {
+
+            0%,
+            100% {
+                opacity: 1
+            }
+
+            50% {
+                opacity: 0
+            }
+        }
+
+        @keyframes drift1 {
+            to {
+                transform: translate(170px, 40px)
+            }
+        }
+
+        @keyframes drift2 {
+            to {
+                transform: translate(-200px, -35px)
+            }
+        }
+
+        @keyframes drift3 {
+            to {
+                transform: translate(110px, 50px)
+            }
+        }
+
+        @keyframes sweep {
+
+            0%,
+            35% {
+                transform: translateX(-300px)
+            }
+
+            85%,
+            100% {
+                transform: translateX(1100px)
+            }
+        }
+
+        @keyframes twinkle {
+
+            0%,
+            100% {
+                opacity: .12
+            }
+
+            50% {
+                opacity: .9
+            }
+        }
+
+        @media (prefers-reduced-motion:reduce) {
+
+            .rName,
+            .rRole,
+            .c1 rect,
+            .c2 rect,
+            .c2 g,
+            .orb1,
+            .orb2,
+            .orb3,
+            .shine,
+            .tw1,
+            .tw2,
+            .tw3 {
+                animation: none
+            }
+
+            .c1 {
+                display: none;
+                animation: none
+            }
+
+            .c2 {
+                display: none;
+                animation: none
+            }
+
+            .shine {
+                opacity: 0
+            }
+        }
+    </style>
+
+    <g clip-path="url(#frame)">
+        <rect width="1000" height="300" fill="url(#bg)" />
+        <circle class="orb1" cx="200" cy="100" r="230" fill="url(#b1)" />
+        <circle class="orb2" cx="810" cy="215" r="250" fill="url(#b2)" />
+        <circle class="orb3" cx="560" cy="50" r="190" fill="url(#b3)" />
+
+        <g>
+            <rect x="90" y="45" width="820" height="210" rx="30" fill="url(#glass)" stroke="url(#edge)"
+                stroke-width="1.5" />
+            <g clip-path="url(#panel)">
+                <rect class="shine" x="0" y="45" width="200" height="210" fill="url(#sheen)" transform="skewX(-18)" />
+            </g>
+
+            <circle class="tw1" cx="130" cy="85" r="2.5" fill="#ffffff" />
+            <circle class="tw2" cx="872" cy="76" r="2" fill="#00f5ff" />
+            <circle class="tw3" cx="846" cy="226" r="2.5" fill="#ff5ce1" />
+            <circle class="tw2" cx="160" cy="224" r="2" fill="#c9b8ff" />
+
+            <g clip-path="url(#typeName)">
+                <text x="275" y="144" textLength="450" lengthAdjust="spacing"
+                    font-family="'Segoe UI', Arial, sans-serif" font-size="54" font-weight="700" fill="url(#txt)">Aung
+                    Kaung Myat</text>
+            </g>
+            <g clip-path="url(#typeRole)">
+                <text x="260" y="194" textLength="480" lengthAdjust="spacing"
+                    font-family="'Segoe UI', Arial, sans-serif" font-size="18" fill="#eaeaff">JUNIOR FULL-STACK
+                    DEVELOPER</text>
+            </g>
+
+            <g class="c1">
+                <rect x="275" y="102" width="4" height="58" rx="2" fill="#7de8ff" />
+            </g>
+            <g class="c2">
+                <g>
+                    <rect x="260" y="174" width="3" height="26" rx="1.5" fill="#7de8ff" />
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
