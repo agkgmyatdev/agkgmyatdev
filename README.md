@@ -43,7 +43,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=agkgmyatdev&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=F43F5E&currStreakLabel=22D3EE" width="48%" />
+<img src="https://streak-stats.demolab.com?user=agkgmyatdev&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=F43F5E&currStreakLabel=22D3EE" width="48%" alt="streak" />
 
 </div>
 
